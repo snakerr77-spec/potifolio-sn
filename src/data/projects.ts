@@ -39,7 +39,7 @@ export const projects: Project[] = [
     accent: '#27e3ad',
     accentRgb: '39, 227, 173',
     visual: 'dashboard',
-    url: 'https://snakerr77-spec.github.io/technoshopp/',
+    url: 'https://tecnoshop.snkmataxit.workers.dev/',
   },
   {
     id: 3,
